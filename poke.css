@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.pics{
+    width: 700px;
+    display: inline-block;
+}
+
+.pokedex{
+    width: 25%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+img{
+    width: 55px;
+}
