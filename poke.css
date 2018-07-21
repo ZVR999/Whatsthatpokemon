@@ -12,8 +12,9 @@
     width: 25%;
     display: inline-block;
     vertical-align: top;
+    position: fixed;
 }
 
 img{
-    width: 55px;
+    width: 75px;
 }
